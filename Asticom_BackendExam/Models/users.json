@@ -1,0 +1,13 @@
+﻿[
+  {
+    "Id": 0,
+    "FirstName": "TestFirstName",
+    "LastName": "TestLastName",
+    "Address": "TestAddress",
+    "PostCode": "0000",
+    "PhoneNumber": "09101111111",
+    "Email": "testemail@tesing.com",
+    "UserName": "testemail@tesing.com",
+    "Password": "testPasword01#"
+  }
+]
